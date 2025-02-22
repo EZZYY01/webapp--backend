@@ -1,0 +1,12 @@
+node_modules/
+.env
+dist/
+
+models/
+helpers/
+controllers/
+admin.js
+
+routes/admin
+routes/shop
+
