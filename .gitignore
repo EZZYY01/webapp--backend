@@ -4,7 +4,10 @@ dist/
 
 
 
-controllers/
+controllers/admin/
+controllers/auth/
+controllers/shop/
+
 admin.js
 
 
